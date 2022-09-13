@@ -1,2 +1,2 @@
-# react-assignment-1
+# First React assignment
 This is first assignment of React
